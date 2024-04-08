@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+scipy
+librosa
+noisereduce
+python_speech_features
+scikit-learn
+tensorflow
